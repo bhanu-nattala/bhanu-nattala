@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanu Prakash Nattala</h1>
-<h3 align="center">I'm a Enthusiast👨‍💻</h3>
+<h3 align="center">I'm a BigData Enthusiast👨‍💻</h3>
 
 🎓 I have completed my B. Tech from JNTUUCEJ</br>
 ⏳ I am constantly learning and keep myself updated with the latest technologies in BigData.</br>
