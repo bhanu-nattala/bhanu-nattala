@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhanu Prakash Nattala</h1>
 <h3 align="center">I'm a BigData Enthusiast👨‍💻</h3>
 
-🎓 I have completed my B. Tech from JNTUUCEJ</br>
-⏳ I am constantly learning and keep myself updated with the latest technologies in BigData.</br>
-🤔 My interests are in Big Data, Data Science</br>
-📫 Please email via bhanunattala@gmail.com to reach me.</br>
-
 <br>
 <h2 align="left">🚀 Connect with me:</h3>
 <p align="center">
@@ -15,6 +10,12 @@
 <a href="https://topmate.io/vishalsingh17" target="blank"><img align="center" src="https://user-images.githubusercontent.com/55878408/213914719-997ca890-b60f-41bb-a41d-7c56adb57d6d.jpg" alt="[Topmate](https://topmate.io/vishalsingh17)" height="30" width="40" /></a>
 </p>
 <br>
+
+🎓 I have completed my B. Tech from JNTUH UCEJ</br>
+⏳ I am constantly learning and keep myself updated with the latest technologies in BigData.</br>
+🤔 My interests are in Big Data, Data Science</br>
+📫 Please email via bhanunattala@gmail.com to reach me.</br>
+
 
 <h4 align="left">Languages:</h4>
 <p align="left"> 
