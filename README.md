@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhanu Prakash Nattala</h1>
-<h3 align="center">I'm a BigData Enthusiast👨‍💻</h3>
+<h1 align="center">Hi 👋, I'm Bhanu Prakash Nattalla</h1>
+<h3 align="center">I'm an AI Engineer👨‍💻</h3>
 
 <br>
 <h2 align="left">🚀 Connect with me:</h3>
@@ -10,8 +10,8 @@
 
 🎓 I have completed my B. Tech from JNTUH UCEJ</br>
 ⏳ I am constantly learning and keep myself updated with the latest technologies in BigData.</br>
-🤔 My interests are in Big Data, Data Science</br>
-📫 Please email via bhanunattala@gmail.com to reach me.</br>
+🤔 </br>
+📫 Please email via bhanunattalla@gmail.com to reach me.</br>
 
 
 <h4 align="left">Languages:</h4>
